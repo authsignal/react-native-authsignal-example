@@ -1,4 +1,4 @@
-An example React Native app showing how to use the Authsignal React Native library.
+An example React Native app showing how to use the [Authsignal React Native library](https://github.com/authsignal/react-native-authsignal).
 
 The example also includes an Express web server which the React Native app calls. This server has 2 endpoints:
 
